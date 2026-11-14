@@ -13,7 +13,8 @@
   "files": [
     "CombinedArms.js",
     "CombinedArms.d.ts",
-    "CombinedArms.js.map"
+    "CombinedArms.js.map",
+    "CombinedArms.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
